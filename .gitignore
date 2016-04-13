@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+/zn.iml
+/zn-show/zn-show.iml
+/zn-craw/zn-craw.iml
+/.idea
+/zn-craw/logs
+/zn-show/logs
+/zn-craw/target
+/zn-show/target
+.idea
+/logs
+
+.DS_Store
